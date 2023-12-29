@@ -2,9 +2,18 @@
 
 Welcome to the Awesome PARA Method repository! 🚀 Here, we curate a collection of resources, tools, and links related to the PARA Method — a powerful organizational system developed by Tiago Forte. The PARA Method is designed to help you effectively manage your digital and physical information, enabling a more productive and organized life.
 
-Don't forget to check out the official ["The PARA Method: The Simple System for Organizing Your Digital Life in Seconds"](https://fortelabs.com/blog/para/?utm_source=awesome-para-method) blog post and the 📘 [The PARA Method Book](https://amzn.to/4axeUq5).
+### The PARA Method Blog Post and Book
+
+Explore the official ["The PARA Method: The Simple System for Organizing Your Digital Life in Seconds"](https://fortelabs.com/blog/para/?utm_source=awesome-para-method) blog post and the officia book "The PARA Method," to gain a deeper understanding of the methodology.
+
+[![The PARA Method](images/The-PARA-Method-Cover.webp)](https://amzn.to/4axeUq5)
 
 ## Contents
+
+- [Official Links](#official-links)
+- [Blog Posts And Articles](#blog-posts-and-articles)
+- [Videos](#videos)
+- [Tools](#tools)
 
 ## Official Links
 
@@ -14,7 +23,30 @@ Don't forget to check out the official ["The PARA Method: The Simple System for 
 
 ## Blog Posts and Articles
 
+- [TBA](#) - TBA
+
+## Videos
+
+- [TBA](#) - TBA
+
 ## Tools
 
-- [Loseq](https://logseq.com) - Open Source Note Taking Tool
-  -
+Discover tools and applications that can help you effectively implement the PARA Method.
+
+- [Logseq](https://logseq.com) - Open-source knowledge management tool that combines the flexibility of a plain text editor with the power of backlinks and bi-directional linking, making it an excellent choice for implementing the PARA Method and building a connected knowledge base.
+  - [Add PARA Properties](https://github.com/georgeguimaraes/logseq-plugin-add-PARA-properties) - Logseq plugin to manage your PARA Method workflow using slash commands and page properties.
+  - [Quickly PARA Method](https://github.com/YU000jp/logseq-plugin-quickly-para-method) - Logseq plugin to organize pages using the PARA Method.
+- [**Notion**](h
+ttps://notion.so) - An all-in-one workspace that combines note-taking, task management, and collaboration features.
+- [**Obsidian**](https://obsidian.md) - A powerful note-taking app with a focus on building a knowledge graph, suitable for organizing and linking resources in your PARA setup.
+
+## Contributing
+
+We welcome contributions! If you have discovered a new tool, written an article, or found a resource that aligns with the PARA Method, please follow our [contribution guidelines](CONTRIBUTING.md) to add it to the repository.
+
+## License
+
+This project is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md). Feel free to use, share, and adapt the content.
+
+---
+Happy organizing with the PARA Method! 🚀
