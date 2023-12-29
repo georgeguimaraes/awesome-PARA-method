@@ -3,7 +3,9 @@
 # Awesome PARA Method
 
 Welcome to the Awesome PARA Method repository! 🚀 Here, we curate a collection of resources, tools, and links related to the PARA Method — a powerful organizational system developed by Tiago Forte. The PARA Method is designed to help you effectively manage your digital and physical information, enabling a more productive and organized life.
+
 </div>
+<br />
 
 ### The PARA Method Blog Post and Book
 
