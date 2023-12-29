@@ -33,11 +33,10 @@ Explore the official ["The PARA Method: The Simple System for Organizing Your Di
 
 Discover tools and applications that can help you effectively implement the PARA Method.
 
-- [Logseq](https://logseq.com) - Open-source knowledge management tool that combines the flexibility of a plain text editor with the power of backlinks and bi-directional linking, making it an excellent choice for implementing the PARA Method and building a connected knowledge base.
+- [**Logseq**](https://logseq.com) - Open-source knowledge management tool that combines the flexibility of a plain text editor with the power of backlinks and bi-directional linking, making it an excellent choice for implementing the PARA Method and building a connected knowledge base.
   - [Add PARA Properties](https://github.com/georgeguimaraes/logseq-plugin-add-PARA-properties) - Logseq plugin to manage your PARA Method workflow using slash commands and page properties.
   - [Quickly PARA Method](https://github.com/YU000jp/logseq-plugin-quickly-para-method) - Logseq plugin to organize pages using the PARA Method.
-- [**Notion**](h
-ttps://notion.so) - An all-in-one workspace that combines note-taking, task management, and collaboration features.
+- [**Notion**](https://notion.so) - An all-in-one workspace that combines note-taking, task management, and collaboration features.
 - [**Obsidian**](https://obsidian.md) - A powerful note-taking app with a focus on building a knowledge graph, suitable for organizing and linking resources in your PARA setup.
 
 ## Contributing
