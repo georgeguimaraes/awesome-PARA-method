@@ -4,7 +4,7 @@ Welcome to the Awesome PARA Method repository! 🚀 Here, we curate a collection
 
 ### The PARA Method Blog Post and Book
 
-Explore the official ["The PARA Method: The Simple System for Organizing Your Digital Life in Seconds"](https://fortelabs.com/blog/para/?utm_source=awesome-para-method) blog post and the officia book "The PARA Method," to gain a deeper understanding of the methodology.
+Explore the official ["The PARA Method: The Simple System for Organizing Your Digital Life in Seconds"](https://fortelabs.com/blog/para/?utm_source=awesome-para-method) blog post and the official book ["The PARA Method,"](https://amzn.to/4axeUq5) to gain a deeper understanding of the methodology.
 
 [![The PARA Method](images/The-PARA-Method-Cover.webp)](https://amzn.to/4axeUq5)
 
