@@ -30,14 +30,17 @@ Explore the official ["The PARA Method: The Simple System for Organizing Your Di
 
 ## Blog Posts and Articles
 
-- [TBA](#) - TBA
+A lot of blog posts about PARA only rehashes what Tiago wrote. Below are our suggestions that really adds to the conversation.
+
+- [Using PARA to Organize Your Notion Workspace](https://mariepoulin.com/blog/using-para-to-organize-your-notion-workspace/) - Marie Poulon gives some good examples on organizing PARA in Notion
 
 ## Videos
 
-- [PART 1: The PARA Method Explained](https://www.youtube.com/watch?v=T6Mfl1OywM8)
-- [PART 2: The 10-to-15 Rule (creating your projects)](https://www.youtube.com/watch?v=anexySaCsgU)   
-- [PART 3: How I Use PARA Every Week](https://www.youtube.com/watch?v=MyWmGDnWhjE)
-- [PART 4: My Second Brain on Apple Notes](https://www.youtube.com/watch?v=fioLhb1U4J0)
+- Tiago Forte on how he uses PARA himself:
+  - [PART 1: The PARA Method Explained](https://www.youtube.com/watch?v=T6Mfl1OywM8)
+  - [PART 2: The 10-to-15 Rule (creating your projects)](https://www.youtube.com/watch?v=anexySaCsgU)
+  - [PART 3: How I Use PARA Every Week](https://www.youtube.com/watch?v=MyWmGDnWhjE)
+  - [PART 4: My Second Brain on Apple Notes](https://www.youtube.com/watch?v=fioLhb1U4J0)
 
 ## Tools
 
