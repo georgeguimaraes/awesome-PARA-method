@@ -2,7 +2,7 @@
   
 # Awesome PARA Method
 
-Welcome to the Awesome PARA Method repository! 🚀 Here, we curate a collection of resources, tools, and links related to the PARA Method — a powerful organizational system developed by Tiago Forte. 
+Welcome to the Awesome PARA Method repository! 🚀 Here, we curate a collection of resources, tools, and links related to the PARA Method — a powerful organizational system developed by Tiago Forte.
 
 The PARA Method is designed to help you effectively manage your digital and physical information, enabling a more productive and organized life.
 
@@ -47,6 +47,7 @@ Discover tools and applications that can help you effectively implement the PARA
   - [Add PARA Properties](https://github.com/georgeguimaraes/logseq-plugin-add-PARA-properties) - Logseq plugin to manage your PARA Method workflow using slash commands and page properties.
   - [Quickly PARA Method](https://github.com/YU000jp/logseq-plugin-quickly-para-method) - Logseq plugin to organize pages using the PARA Method.
 - [**Notion**](https://notion.so) - An all-in-one workspace that combines note-taking, task management, and collaboration features.
+  - [PARA Method Template for Notion](https://thomasjfrank.com/templates/para-method-template-for-notion/) - Thomas Frank's template for implementing PARA in Notion. Free.
 - [**Obsidian**](https://obsidian.md) - A powerful note-taking app with a focus on building a knowledge graph, suitable for organizing and linking resources in your PARA setup.
 
 ## Contributing
