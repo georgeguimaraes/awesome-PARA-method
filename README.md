@@ -59,7 +59,7 @@ We welcome contributions! If you have discovered a new tool, written an article,
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md). Feel free to use, share, and adapt the content.
+This project is licensed under the [CC0 License](LICENSE.md). Feel free to use, share, and adapt the content.
 
 ---
 Happy organizing with the PARA Method! 🚀
